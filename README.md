@@ -5,7 +5,7 @@
 
 ## Veri Seti
 * Yapay Zekaya üretilen 200 satırlık veri seti. ("musteri_churn_kirli_veri_seti.csv").
-* Veri setinde eksik, tekrar eden, aykırı ve mantık dışı değerler mevcuttur.
+* Ham veri setinde eksik, tekrar eden, aykırı ve mantık dışı değerler mevcuttur.
 
 ## Adımlar
 1. Veri okuma
