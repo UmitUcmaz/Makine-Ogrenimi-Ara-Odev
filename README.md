@@ -24,4 +24,4 @@
 * **Adım 7-10 (Veri Bölme, Ölçeklendirme, Model Eğitimi, Test ve Değerlendirme):** scikit-learn
 
 ```bash
-pip install pandas scikit-learn
+pip install -r requirements.txt
